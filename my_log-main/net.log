@@ -1,0 +1,10 @@
+2022-07-28 16:46:57 INFO [2748:main.c:18] hello,  -- info
+2022-07-28 16:46:57 DEBUG [2748:main.c:19] hello,   -- debug
+2022-07-28 16:46:57 WARN [2748:main.c:20] hello,  -- warnning
+2022-07-28 16:46:57 ERROR [2748:main.c:21] hello,  -- error
+2022-07-28 16:46:57 PANIC [2748:main.c:22] hello,  -- panic
+2022-07-28 16:47:43 INFO [2784:main.c:18] hello,  -- info
+2022-07-28 16:47:43 DEBUG [2784:main.c:19] hello,   -- debug
+2022-07-28 16:47:43 WARN [2784:main.c:20] hello,  -- warnning
+2022-07-28 16:47:43 ERROR [2784:main.c:21] hello,  -- error
+2022-07-28 16:47:43 PANIC [2784:main.c:22] hello,  -- panic
